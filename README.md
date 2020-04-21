@@ -7,6 +7,7 @@
 </dl>
 
 ## Education:
+
 <dl>
 <dd>B.Sc. in Psychology</dd>
 <dd>Minor: Cognitive Neuroscience</dd>
@@ -17,6 +18,7 @@
 ## Research Experience:
 
 ### Onur Guentuerkuen Lab for Biological Psychology
+
 <dl>
 <dd>Undergraduate research assistant<dd>
 <dd>Nov 2019 – Present<dd> 

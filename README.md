@@ -1,19 +1,16 @@
 
 # Curriculum Vitae
-<dl>
+
 <dd> Maximilian Schmidt<dd>
 <dd>Ruhr-University Bochum – Germany<dd>
 <dd>Email: maximilian.schmidt-y2i@rub.de<dd>
-</dl>
 
 ## Education:
 
-<dl>
 <dd>B.Sc. in Psychology</dd>
 <dd>Minor: Cognitive Neuroscience</dd>
 <dd>Oct 2017 – Present</dd>
 <dd>Ruhr-University Bochum – Germany</dd>
-</dl>
 
 ## Research Experience:
 

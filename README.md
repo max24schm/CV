@@ -1,7 +1,6 @@
 Maximilian Schmidt
 Ruhr-University Bochum – Germany
 Email: maximilian.schmidt-y2i@rub.de
-Phone: +49 15202107917
 
 Education:
 B.Sc. in Psychology

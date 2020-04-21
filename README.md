@@ -1,4 +1,3 @@
-
 # Curriculum Vitae
 
 <dd> Maximilian Schmidt<dd>
@@ -16,64 +15,63 @@
 
 ### Onur Guentuerkuen Lab for Biological Psychology
 
-<dl>
 <dd>Undergraduate research assistant<dd>
 <dd>Nov 2019 – Present<dd> 
 <dd>Ruhr-University Bochum – Germany<dd> 
-</dl>
+
 Collection and analysis of optogenetic, electrophysiological and behavioral data from pigeons in a stop-change signal task to study serial versus parallel processing of multicomponent behaviour. Assisting in surgeries for optogenetic and electrophysiological implants. 
 
 ### Socio-Economic Panel, Supervisor: Dr. Theresa Entringer
-<dl>
+
 <dd>Intern<dd>
 <dd>Aug 2019 – Sep 2019<dd>
 <dd>German Institute for Economic Research (DIW Berlin) – Germany<dd>
-</dl>
+
 Generating datasets from a Big-Data source for research projects concerning regional differences in psychological traits across Germany. Conducting research on the effects of ostracism in urban versus rural areas in homosexual versus heterosexual individuals. Writing R-code to create multiple thematic maps of Germany showing previously calculated effect sizes for different geographic regions.
 
 ### Mike Colombo Lab for the Neural Basis of Learning and Memory 
-<dl>
+
 <dd>Intern<dd>
 <dd>Mar 2019 – May 2019<dd>
 <dd>University of Otago – New Zealand<dd>
-</dl>
+
 Collection and analysis of electrophysiological and behavioral data from pigeons in a stimulus discrimination paradigm. Conducting histology and brightfield microscopy. Improving scientific writing skills, as well as acquiring foundational programming skills in MATLAB.
 
 ### Birgit Leyendecker Lab for Developmental Psychology
-<dl>
+
 <dd>Undergraduate research assistant<dd>
 <dd>May 2018 – Dec 2018<dd>
 <dd>Ruhr-University Bochum – Germany<dd>
-</dl>
+
 Data management, visualization and analysis of multi-level data from a longitudinal study using R. The project aimed at comparing language development in preschool children attending differentially funded and supported kindergartens in Germany.
 
 ## Scholarships and Travel Funding:
 
 ### German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)
-<dl>
+
 <dd>Oct 2019 – Present<dd>
 <dd>Study Scholarship<dd>
-</dl>
+
 
 ### DAAD Travel Scholarship for an internship at the University of Otago in Dunedin, New Zealand
-<dl>
+
 <dd>Mar 2019 – May 2019<dd>
 <dd>Ruhr-University Bochum – Germany<dd>
-</dl>
+
 
 ## Teaching Experience:
 
 ### Teaching Assistant for Statistical Methods I and II, Supervisor: Professor Maike Luhmann
-<dl>
+
 <dd>Oct 2018 – Present<dd>
 <dd>Ruhr-University Bochum – Germany<dd>
-</dl>
+
 
 ### Tutor for secondary school children
-<dl>
+
 <dd>May 2013 – June 2016<dd>
 <dd>Ricarda-Huch Grammar School – Germany<dd>
-</dl>
+
 Personal tutoring of students from 7th grade to A-levels in Latin, English, math, biology and chemistry.
 
 ## Technical Expertise and Languages:
@@ -110,20 +108,21 @@ Besides the underlying neuronal mechanisms of human cognition, I am also interes
 ## Volunteer Work:
 
 ### BEaHEAD Initiative for students with a refugee background
-<dl>
+
 <dd>Mar 2020 – Present<dd>
 <dd>Department of Psychology and the International Office of the Ruhr-University Bochum – Germany<dd>
-</dl>
+
 Psychoeducation and peer support for students who have recently come to Germany to escape from armed conflicts or prosecution of any kind. The information we provide about psychological topics, such as positive psychology, PTSD, or depression, are reviewed by professionals from the Department of Psychology. As senior psychology students we offer support to those students, who are currently finding their way into a new campus, culture, language and more. 
 
 ### Walk In Ruhr Center for sexual health
-<dl>
+
 <dd>Jul 2017 – Present<dd>
 <dd>AIDS Service Organization Bochum – Germany<dd>
-</dl>
+
 Anonymous counseling and testing service for homosexual men regarding sexual health and behavior. Education about sexually transmitted infections and safer sex for the general public. Mentoring incoming volunteers regarding the different programs offered by the teams within the organization.
 
 ## References:
+
 [Professor Maike Luhmann](http://www.pml.psy.rub.de/personen/index.html)
 
 [Professor Mike Colombo](https://www.otago.ac.nz/psychology/staff/mikecolombo.html) 

@@ -1,9 +1,10 @@
 
 # Curriculum Vitae
-
+<dl>
 <dd> Maximilian Schmidt<dd>
 <dd>Ruhr-University Bochum – Germany<dd>
 <dd>Email: maximilian.schmidt-y2i@rub.de<dd>
+</dl>
 
 ## Education:
 <dl>

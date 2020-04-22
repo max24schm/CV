@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Maximilian Schmidt
 
 <dd>Ruhr-University Bochum – Germany</dd>

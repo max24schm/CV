@@ -130,5 +130,5 @@ Anonymous counseling and testing service for homosexual men regarding sexual hea
 [Professor Onur Guentuerkuen](https://www.bio.psy.ruhr-uni-bochum.de/members.html)
 
 ```
-Thank you for visiting my online-CV. Please feel free to contact me via mail if you have any inquiries.
+Thank you for visiting. For any inquiries please contact me via e-mail.
 ```

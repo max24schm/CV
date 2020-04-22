@@ -48,22 +48,21 @@ Data management, visualization and analysis of multi-level data from a longitudi
 ## Scholarships and Travel Funding:
 
 #### German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)
-
+<dl>
 <dd>Oct 2019 – Present</dd>
 <dd>Study Scholarship</dd>
-
+</dl>
 #### DAAD Travel Scholarship for an internship at the University of Otago in Dunedin, New Zealand
-
+<dl>
 <dd>Mar 2019 – May 2019</dd>
 <dd>Ruhr-University Bochum – Germany</dd>
-
+</dl>
 ## Teaching Experience:
 
 #### Teaching Assistant for Statistical Methods I and II, Supervisor: Professor Maike Luhmann
 
 <dd>Oct 2018 – Present</dd>
 <dd>Ruhr-University Bochum – Germany</dd>
-
 
 #### Tutor for secondary school children
 

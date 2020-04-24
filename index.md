@@ -107,7 +107,7 @@ Besides the underlying neuronal mechanisms of human cognition, I am also interes
 
 ## Volunteer Work:
 
-#### BEaHEAD Initiative for students with a refugee background
+#### be_ahead Initiative for students with a refugee background
 
 <dd>Mar 2020 – Present</dd>
 <dd>Department of Psychology and the International Office of the Ruhr-University Bochum – Germany</dd>

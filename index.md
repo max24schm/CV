@@ -22,7 +22,7 @@ layout: default
 <dd>Nov 2019 – Present</dd>
 <dd>Ruhr-University Bochum – Germany</dd> 
 
-Collection and analysis of optogenetic, electrophysiological and behavioral data from pigeons in a stop-change signal task to study serial versus parallel processing of multicomponent behaviour. Assisting in surgeries for optogenetic and electrophysiological implants. 
+Collection and analysis of electrophysiological and behavioral data from pigeons in a stop-change signal task to study serial versus parallel processing in multicomponent behaviour. Assisting in surgeries for electrophysiological implants. 
 
 #### Socio-Economic Panel, Supervisor: Dr. Theresa Entringer
 
@@ -106,6 +106,13 @@ How can we develop appropriate standards for statistical analyses and by what me
 Besides the underlying neuronal mechanisms of human cognition, I am also interested in the further study of biological human responses to stimuli that influence their inner and outer emotional state and their mind.
 
 ## Volunteer Work:
+
+#### Ambassador for the German Academic Scholarship Foundation
+
+<dd>May 2020 – Present</dd>
+<dd>Scholar's University Group at the Ruhr-University Bochum – Germany</dd>
+
+Helping to reduce perceived barriers of high school students and freshmen to apply for a scholarship from the German Academic Scholarship Foundation. We go to high schools, organize events at job fairs, and accompany applicants along the way to their final assessment. Our work ought to motivate applicants from all socioeconomic backgrounds, especially if they are not from academic families.
 
 #### be_ahead Initiative for students with a refugee background
 

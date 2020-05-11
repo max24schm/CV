@@ -22,7 +22,7 @@ layout: default
 <dd>Nov 2019 – Present</dd>
 <dd>Ruhr-University Bochum – Germany</dd> 
 
-Collection and analysis of electrophysiological and behavioral data from pigeons in a stop-change signal task to study serial versus parallel processing in multicomponent behaviour. Assisting in surgeries for electrophysiological implants. 
+Collection and analysis of electrophysiological single unit and behavioral data from pigeons in a stop-change signal task to study serial versus parallel processing in multicomponent behaviour. Assisting in surgeries for electrophysiological implants. 
 
 #### Socio-Economic Panel, Supervisor: Dr. Theresa Entringer
 

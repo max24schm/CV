@@ -67,7 +67,7 @@ Data management, visualization and analysis of multi-level data from a longitudi
 <dd>Oct 2018 – Present</dd>
 <dd>Ruhr-University Bochum – Germany</dd>
 
-Preparing and holding practical statistics classes following the lecture syllabus. Assisting the maintainance of the online learning platform Moodle and creating video tutorials and digital learning materials.
+Preparing and holding practical statistics classes following the lecture syllabus. Assisting the maintainance of the online learning platform Moodle and creating video tutorials and digital learning materials. The classes are officially evaluated by students (results in German available upon request).
 
 #### Tutor for secondary school children
 

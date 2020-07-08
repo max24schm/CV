@@ -101,7 +101,7 @@ German (native), English (proficient, Cambridge English Certificate ESOL Interna
 <dd>July 2020 – Present</dd>
 <dd>Ruhr-University Bochum – Germany</dd>
 
-#### Student membership in the Association for Psychological Science
+#### Student member in the Association for Psychological Science
 Dec 2019 – Present
 
 #### Social psychological perspectives on fairness, stereotypes and applied social psychology:
@@ -122,7 +122,7 @@ Besides the underlying neuronal mechanisms of human cognition and their evolutio
 
 Helping to reduce perceived barriers of high school students and freshmen to apply for a scholarship from the German Academic Scholarship Foundation. We go to high schools, organize events at job fairs, and accompany applicants along the way to their final assessment. Our work ought to motivate applicants from all socioeconomic backgrounds, especially if they are not from academic families.
 
-#### be_ahead initiative for students with a refugee background
+#### Beahead. initiative for students with a refugee background
 
 <dd>Mar 2020 – Present</dd>
 <dd>Department of Psychology and the International Office of the Ruhr-University Bochum – Germany</dd>

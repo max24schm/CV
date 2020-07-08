@@ -96,6 +96,11 @@ German (native), English (proficient, Cambridge English Certificate ESOL Interna
 
 ## Professional Memberships and Research Interests:
 
+#### Student member in the directorate of the Institute of Cognitive Neuroscience
+
+<dd>July 2020 – Present</dd>
+<dd>Ruhr-University Bochum – Germany</dd>
+
 #### Student membership in the Association for Psychological Science
 Dec 2019 – Present
 
@@ -109,11 +114,6 @@ How can we develop appropriate standards for statistical analyses and by what me
 Besides the underlying neuronal mechanisms of human cognition and their evolutionary backround, I am also interested in the further study of psychophysiological responses of humans to emotional stimuli that influence their decision making.
 
 ## Volunteer Work:
-
-#### Student member in the directorate of the Institute of Cognitive Neuroscience
-
-<dd>July 2020 – Present</dd>
-<dd>Ruhr-University Bochum – Germany</dd>
 
 #### Ambassador for the German Academic Scholarship Foundation
 

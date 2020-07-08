@@ -110,6 +110,11 @@ Besides the underlying neuronal mechanisms of human cognition and their evolutio
 
 ## Volunteer Work:
 
+#### Student member in the directorate of the Institute of Cognitive Neuroscience
+
+<dd>July 2020 – Present</dd>
+<dd>Ruhr-University Bochum – Germany</dd>
+
 #### Ambassador for the German Academic Scholarship Foundation
 
 <dd>May 2020 – Present</dd>

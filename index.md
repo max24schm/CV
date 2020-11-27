@@ -19,7 +19,7 @@ Besides academia, I enjoy cooking or playing cards with friends, visiting dance 
 <dd>Minor: Organizational and Business Psychology</dd>
 <dd>Oct 2020 – Present</dd>
 <dd>Ruhr-University Bochum – Germany</dd>
-
+<dd></dd>
 <dd>B.Sc. in Psychology (US GPA = 3.9; German grade = 1.1)</dd>
 <dd>Minor: Cognitive Neuroscience</dd>
 <dd>Oct 2017 – Sep 2020</dd>

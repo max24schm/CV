@@ -14,16 +14,19 @@ This online version of my CV is my first attempt at creating an own static websi
 Besides academia, I enjoy cooking or playing cards with friends, visiting dance performances and theater plays, camping and hiking.
 
 ## Education:
-
+<p>
 <dd>M.Sc. in Psychology</dd>
 <dd>Minor: Organizational and Business Psychology</dd>
 <dd>Oct 2020 – Present</dd>
 <dd>Ruhr-University Bochum – Germany</dd>
-<dd></dd>
+</p>
+
+<p>
 <dd>B.Sc. in Psychology (US GPA = 3.9; German grade = 1.1)</dd>
 <dd>Minor: Cognitive Neuroscience</dd>
 <dd>Oct 2017 – Sep 2020</dd>
 <dd>Ruhr-University Bochum – Germany</dd>
+</p>
 
 ## Research Experience:
 

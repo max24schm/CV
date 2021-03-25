@@ -10,8 +10,8 @@ layout: default
 ## About me
 
 My main professional interests are social psychological research, statistics and open science. Through my experience so far I have decided that the research I want to do should be in a field where the acquired knowledge can be applied profitably to real-world settings in order to bring about sustainable, science-informed change.
-This online version of my CV is my first attempt at creating an own static website. For that I have studied how to use GitHub Pages, bundle, gem or html through blogs, tutorials and a lot of trial and error learning. My goal is to learn how to build a more sophisticated version of this website by the end of 2021.
-Besides academia, I enjoy cooking or playing cards with friends, visiting dance performances and theater plays, camping and hiking.
+This online version of my CV is my first attempt at creating a static website. For that I have studied how to use GitHub Pages, bundle, gem or html through blogs, tutorials and a lot of trial and error learning. My goal is to learn how to build a more sophisticated version of this website by the end of 2021.
+Besides academia, I enjoy cooking or playing cards (Wizard, Cards Against Humanity) with friends, visiting dance performances and theater plays, fashion, art, camping and hiking (not necessarily in that order).
 
 ## Education:
 <p>

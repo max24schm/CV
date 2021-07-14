@@ -163,17 +163,19 @@ GEM
       mimemagic (~> 0.3.2)
     mercenary (0.3.6)
     method_source (1.0.0)
-    mimemagic (0.3.6)
+    mimemagic (0.3.10)
+      nokogiri (~> 1)
+      rake
     mini_mime (1.0.2)
-    mini_portile2 (2.5.0)
+    mini_portile2 (2.5.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
     net-dns (0.9.0)
     nio4r (2.5.7)
-    nokogiri (1.11.2)
+    nokogiri (1.11.4)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
-    nokogiri (1.11.2-x64-mingw32)
+    nokogiri (1.11.4-x64-mingw32)
       racc (~> 1.4)
     octokit (4.20.0)
       faraday (>= 0.9)
@@ -252,7 +254,6 @@ GEM
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
     websocket-driver (0.7.3)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
@@ -268,7 +269,6 @@ DEPENDENCIES
   rack (~> 2.1.4)
   rails
   rspec
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.1.4
